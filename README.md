@@ -1,4 +1,4 @@
-# [Click here to view live site]{https://blindabehluli.github.io/qr-code-component-main/}
+# [Click here to view live site](https://blindabehluli.github.io/qr-code-component-main/)
 ### Frontend Mentor - QR code component
 
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
